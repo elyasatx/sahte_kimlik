@@ -41,5 +41,5 @@ Bu proje, kullanıcıdan belirli bilgileri alarak sahte kimlikler oluşturmaya y
 ### 2. Kurulum
 Öncelikle, projenizi klonlayın:
 ```bash
-git clone https://github.com/kullanici/sahte-kimlik-olusturucu.git
+git clone https://github.com/elyasatx/sahte_kimlik.git
 cd sahte-kimlik-olusturucu
