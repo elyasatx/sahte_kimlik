@@ -45,5 +45,5 @@ git clone https://github.com/elyasatx/sahte_kimlik.git
 cd sahte-kimlik
 python3 elyasa.py
 
-## Güncellemeler
+
 -1.0 versiyonudur. En yakın zamanda yenilikler sunulacaktır.
