@@ -42,4 +42,5 @@ Bu proje, kullanıcıdan belirli bilgileri alarak sahte kimlikler oluşturmaya y
 Öncelikle, projenizi klonlayın:
 ```bash
 git clone https://github.com/elyasatx/sahte_kimlik.git
-cd sahte-kimlik-olusturucu
+cd sahte-kimlik
+python3 elyasa.py
