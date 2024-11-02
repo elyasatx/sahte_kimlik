@@ -27,13 +27,10 @@ Bu proje, kullanıcıdan belirli bilgileri alarak sahte kimlikler oluşturmaya y
 7. **Kullanıcı Seçimi**:
    - Kullanıcıya erkek, kadın veya rastgele cinsiyet seçeneği sunulacak
 
-8. **ASCII Sanat**: 
-   - Terminalde "Elyasa" yazısı ile birlikte bir tasarım
-
-9. **Terminal Temizleme**: 
+8. **Terminal Temizleme**: 
    - Program her çalıştırıldığında terminal ekranının temizlenmesi sağlanacak
 
-10. **Kimlik Oluşturma**: 
+9. **Kimlik Oluşturma**: 
     - Kullanıcı istediği kadar sahte kimlik oluşturabilecek
 
 ## Kullanım
